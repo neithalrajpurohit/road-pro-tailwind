@@ -8,8 +8,8 @@
 
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS--green)
 
-## Responsive Rode UI Clone [Live Link]()
+## Responsive Rode UI Clone [Live Link](https://rodelive-pro.netlify.app/)
 
 #### Screenshot
 
-![Desktop](./screens/Rode.png)
+![rode](./screens/Rode.png)
